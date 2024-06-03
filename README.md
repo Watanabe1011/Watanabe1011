@@ -12,7 +12,7 @@
 
 <br/>  
 
-## Conjuntos de habilidades e interesses  
+## Skill sets and interests  
 <table><tr><td valign="top" width="33%">
 
 
