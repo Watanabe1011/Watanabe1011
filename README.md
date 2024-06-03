@@ -1,9 +1,5 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/natanogliag"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" align="center" alt="Pague-me um café!" style="width:200px;height:50px;"></a>
-</p>
-
 ### <div align="center"> Hiroshi Watanabe</div>  
 
 
@@ -89,56 +85,3 @@
 
 </td></tr></table>  
 <br>  
-
-## Confira minhas organizações
-
-* <a href="https://github.com/casa-inteligente">Casa Inteligênte </a> <br>
-* <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR">Bacharelado em ENGENHARIA DE SOFTWARE Pela UNOPAR </a> <br>
-
-## Conecte-se a min  
-<div align="center">
-<a href="https://github.com/ogliarinatan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/21826256" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/natan-ogliari-526591bb" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-
-<br/>  
-
-
-## Github Stats  
-
-<div align="center">   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&preferLogin=true&Text=4F50DD">    <img  alt="ogliarinatan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ogliarinatan?cardType=octocat&theme=github-dark&preferLogin=true&Text=4F50DD" />  </a> </div>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ogliarinatan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogliarinatan&hide_border=true&layout=compact" align="center" /></div>  
-
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan" align="center" /></div>
-
-<div align="center"><a href="https://github.com/OgliariNatan"><img src="https://github-stats-alpha.vercel.app/api?username=OgliariNatan&cc=22272e&tc=37BCF6&ic=fff&bc=0000" align="center" /> </a></div>
-
-
-<div align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ogliarinatan&theme=dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a> </div>
-
-<br/>  
-
-<br/>  
-
-<br/>   
-
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/natanogliag" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
-                    align="center"
-                />
-            </a></div>
-<br />
