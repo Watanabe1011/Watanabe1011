@@ -7,18 +7,14 @@
 ### <div align="center"> Hiroshi Watanabe</div>  
 
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em novas linguagens de programação.  
-
-- ⚡ Sou apaixonado por projetar e desenhar leiaute de hardware, em IoT.  
-
-- ❓ Possui algum projeto de hardware em mente? Caso queira ajuda, abra uma Releases, ou crie um repositório e me adicione.
+- 🔭 I’m currently working on Vue, Nuxt.js, Ruby on Rails
+- 🌱 I’m currently learning Blockchain Technologies and Web3.js
+- 👯 I’m looking to collaborate on Big Data Projects on Cloud
+- 💬 Ask me about all the topics I've listed above
+- 📫 How to reach me: hiroshi.watanabe1011@gmail.com
+- ⚡ Fun fact: Nothing unusual. I love Gaming and Cooking.
 
 <br/>  
-
-
-<div align="center"><img src="fotos/esta.png" align="center" height="100" width="100" /></div>  
-
-
 
 ## Conjuntos de habilidades e interesses  
 <table><tr><td valign="top" width="33%">
