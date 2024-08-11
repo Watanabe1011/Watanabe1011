@@ -1,6 +1,6 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
 
-### <div align="center"> Hiroshi Watanabe </div>  
+### <div align="center">　はじめまして。 </div>  
 
 
 - 🔭 I developed many websites using Javascript Frameworks such as React, Vue, Next.js. Besides my Front-end Technologies, I'm also familiar with Back-end Frameworks such as Laravel and Ruby on Rails.
