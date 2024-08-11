@@ -1,6 +1,6 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
 
-### <div align="center">　はじめまして。 </div>  
+### <div align="center">　はじめまして。 私のプロフィールにようこそ。 </div>  
 
 
 - 🔭 I developed many websites using Javascript Frameworks such as React, Vue, Next.js. Besides my Front-end Technologies, I'm also familiar with Back-end Frameworks such as Laravel and Ruby on Rails.
